@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 chat app using MERN
-created by rahul
+created by Anshit
 live demo:- https://chatapp003.vercel.app
 =======
 Highlights:
